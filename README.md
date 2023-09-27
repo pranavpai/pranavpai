@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **paipranav01@gmail.com**
 
-- ⚡ Fun fact **I have studied Dubai,Edinburgh,London & Melbourne.**
+- ⚡ Fun fact **I have studied in Mumbai,Dubai,Edinburgh,London & Melbourne.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
