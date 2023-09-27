@@ -1,21 +1,19 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Pranav Pai</h1>
 <h3 align="center">A passionate Data Scientist / AI Engineer from Australia</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/pranavpai/pranavpai/blob/main/robot-animated.gif?raw=true”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpai&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpai" /> </p>
-
+  
 - 🔭 I’m currently working on **training neural networks.**
 
 - 🌱 I’m currently studying **Master's of Data Science (AI) at University of Melbourne.**
 
 - 👯 I’m looking to collaborate on **AI based projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranavpai?tab=repositories](https://github.com/pranavpai?tab=repositories)
-
 - 📫 How to reach me **paipranav01@gmail.com**
 
-- ⚡ Fun fact: **I have studied in more than 4 dynamic cities.**
+- ⚡ Fun fact **I have studied Dubai,Edinburgh,London & Melbourne.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
