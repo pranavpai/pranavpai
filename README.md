@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Pranav Pai</h1>
-<h3 align="center">A passionate Data Scientist / AI Engineer from Australia</h3>
+<h3 align="center">A passionate Data Scientist / AI Engineer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpai&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpai" /> </p>
