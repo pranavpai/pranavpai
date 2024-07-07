@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **paipranav01@gmail.com**
 
-- ⚡ Fun fact **I like to read AI research papers as a hobby**
+- ⚡ Fun fact **I like to read AI research papers as a hobby.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
