@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pranav-pai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-pai" height="30" width="40" /></a>
 <a href="https://x.com/PranavPai01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavpai_" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=OOYroq8AAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="pranavpai" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=OOYroq8AAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="pranavpai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
