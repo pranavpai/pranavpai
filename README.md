@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpai&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpai" /> </p>
   
-- 🔭 I’m currently working on **training neural networks.**
+- 🔭 I’m currently working on **fine-tuning transformer models.**
 
 - 🌱 I’m currently studying **Master's of Data Science (AI) at University of Melbourne.**
 
@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pranav-pai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-pai" height="30" width="40" /></a>
 <a href="https://x.com/PranavPai01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavpai_" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=OOYroq8AAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="pranavpai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,13 +28,13 @@
 
 <br clear="both">
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpai&show_icons=true&locale=en&layout=compact" alt="pranavpai" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavpai&show_icons=true&locale=en" alt="pranavpai" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpai&" alt="pranavpai" />
