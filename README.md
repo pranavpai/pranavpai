@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on **fine-tuning transformer models.**
 
-- 🌱 I’m currently studying **Master's of Data Science (AI) at University of Melbourne.**
+- 🌱 I recently completed my **Master's degree in Artificial Intelligence** at **The University of Melbourne.**
 
 - 👯 I’m looking to collaborate on **AI based projects.**
 
